@@ -1,0 +1,50 @@
+_repo: Their-island-home-b-The-later-adventures-of-the-Swiss-family-Robinson_74418
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Murphy, Henry Cruse
+    alias: Murphy, H. C. (Henry Cruse)
+    birthdate: 1810
+    deathdate: 1882
+    gutenberg_agent_id: '1749'
+    url: http://www.gutenberg.org/2009/agents/1749
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Cruse_Murphy
+  translator:
+    agent_name: Metcalfe, Cranstoun
+    gutenberg_agent_id: '32914'
+    url: http://www.gutenberg.org/2009/agents/32914
+creator:
+  author:
+    agent_name: Verne, Jules
+    aliases:
+    - Verne, Júlio
+    - Verne, Jules Gabriël
+    - Verne, Jules Gabriel
+    - Verne, Gyula
+    birthdate: 1828
+    deathdate: 1905
+    gutenberg_agent_id: '60'
+    url: http://www.gutenberg.org/2009/agents/60
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Jules_Verne
+    - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
+    - https://fr.wikipedia.org/wiki/Jules_Verne
+description: ''
+gutenberg_issued: '2024-09-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74418'
+language: en
+pgterms:marc905: 20240715035010verne
+pgterms:marc906: '1924'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bG. Howard Watt, $c1924.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Their island home : $b The later adventures of the Swiss family Robinson'
+url: http://www.gutenberg.org/ebooks/74418
