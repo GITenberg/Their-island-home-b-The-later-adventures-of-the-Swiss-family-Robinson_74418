@@ -13,6 +13,9 @@ contributor:
     agent_name: Metcalfe, Cranstoun
     gutenberg_agent_id: '32914'
     url: http://www.gutenberg.org/2009/agents/32914
+covers:
+- cover_type: archival
+  image_path: 74418-h/images/cover.jpg
 creator:
   author:
     agent_name: Verne, Jules
@@ -30,6 +33,8 @@ creator:
     - https://pt.wikipedia.org/wiki/J%C3%BAlio_Verne
     - https://fr.wikipedia.org/wiki/Jules_Verne
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74418#Their-island-home-b-The-later-adventures-of-the-Swiss-family-Robinson
 gutenberg_issued: '2024-09-15'
 gutenberg_type: Text
 identifiers:
